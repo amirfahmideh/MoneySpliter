@@ -1,0 +1,18 @@
+{
+  "name": "moneyspliter",
+  "version": "0.1.5",
+  "description": "this module help you to split money information with splittor",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "SplitMoney",
+    "Spliter"
+  ],
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "author": "Amir Fahmideh <amir.fahmideh@gmail.com> (http://www.whiz.ir)",
+  "license": "ISC"
+}
